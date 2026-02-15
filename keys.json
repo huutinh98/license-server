@@ -1,12 +1,12 @@
 {
-  "keys": [
-    {
-      "key": "VIP-123456",
-      "status": "active"
-    },
-    {
-      "key": "TEST-999999",
-      "status": "active"
-    }
-  ]
+      "keys": [
+          {
+                "key": "VIP-123456",
+                      "status": "active",
+                            "expiry": "2026-12-31",
+                                  "max_uses": 10,
+                                        "used": 0
+                                            }
+                                              ]
+                                              }
 }
